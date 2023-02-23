@@ -1,4 +1,6 @@
-# Aplicacion-Venta-ropa-Mayorista
+# MVP app for sales
+Used the Model-View-Presenter pattern for an app that calculates prices of a wholesale clothing shop.
+
 Se Cotizan disintas prendas según características y se almacenan en un historial que se borra al cerrar la apliación
 Hay 12 tipos de prendas en total con 8 tipos distintos de camisas y 4 de pantalones.
 
